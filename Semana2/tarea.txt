@@ -1,0 +1,11 @@
+Para cada ejercicio hacer el formulario HTML para recibir los datos.
+1. Crear un programa en PHP que calcule el impuesto de ventas, el total a pagar y el vuelto dado el subtotal, y el monto con que pago.
+   Ejemplo, subtotal es 100, pago con 200, debe dar impuesto = 13, total a pagar 113 y el vuelto es 87. Investigue la funcion number_format
+2. Crear un programa en PHP que reciba un numero natural y muestre la secuencia de Fibonacci. Usa ciclos.
+3. Crear un programa en PHP que reciba el salario por hora de un funcionario, y calcule el salario bruto (a razon de 4 semanas por mes, 40 horas de trabajo por semana) una deduccion de la CCSS del 9% y que muestre el monto del salario bruto, la deduccion de la CCSS y el salario neto. Use number_format
+4. Crear un programa en PHP que calcule el area y la circunferencia de un circulo dado su diametro
+5. Crear un programa en PHP que reciba una direccion de correo electronico y que indique si está decuadamente bien formateada. Use strpos, strstr.
+6. Expanda el programa del IMC para que podamos digitar los datos de altura y peso y muestre segun rangos en (https://es.wikipedia.org/wiki/%C3%8Dndice_de_masa_corporal#Interpretaci.C3.B3n)
+7. Investigue las funciones de fecha. Intente hacer un programa que dada una fecha, me de la fecha del siguiente martes.
+8. Escribe un programa para recibir un numero con formato (con simbolos de moneda, decimales y separador de miles) y mantenga unicamente la parte entera del numero. 
+   Ejempo, $123,456.99 debe generar 123456
